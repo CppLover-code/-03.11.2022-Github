@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Практика в классе 03.11.2022 Github", "Практика в классе 03.11.2022 Github\Практика в классе 03.11.2022 Github.vcxproj", "{AE7EDF66-F3D4-411E-85D7-9F17C9E5C54B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE7EDF66-F3D4-411E-85D7-9F17C9E5C54B}.Debug|x64.ActiveCfg = Debug|x64
+		{AE7EDF66-F3D4-411E-85D7-9F17C9E5C54B}.Debug|x64.Build.0 = Debug|x64
+		{AE7EDF66-F3D4-411E-85D7-9F17C9E5C54B}.Debug|x86.ActiveCfg = Debug|Win32
+		{AE7EDF66-F3D4-411E-85D7-9F17C9E5C54B}.Debug|x86.Build.0 = Debug|Win32
+		{AE7EDF66-F3D4-411E-85D7-9F17C9E5C54B}.Release|x64.ActiveCfg = Release|x64
+		{AE7EDF66-F3D4-411E-85D7-9F17C9E5C54B}.Release|x64.Build.0 = Release|x64
+		{AE7EDF66-F3D4-411E-85D7-9F17C9E5C54B}.Release|x86.ActiveCfg = Release|Win32
+		{AE7EDF66-F3D4-411E-85D7-9F17C9E5C54B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DA06507-50EC-4E06-A3D1-62C38FBAC47B}
+	EndGlobalSection
+EndGlobal
